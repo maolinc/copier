@@ -1,3 +1,3 @@
-module github.com/jinzhu/copier
+module github.com/maolinc/copier
 
 go 1.13
